@@ -23,28 +23,36 @@
 			"vsstandort": "Thüringen",
 			"vsadresse": "Walgaustrasse 1",
 			"vsplz-ort": "6712 Thüringen",
-			"vszeitentitel": "Öffnungszeiten"
+			"vs_phone": "+43 5550 215 10",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p style=\"text-align: center;\">Mo. - Sa. 07:00 - 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen.</p>"
 		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@d18e21b3c03791ff54a2399800cd7caa1f8b7665/images/Filiale_Bludesch_625px.jpg",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
 			"vsplz-ort": "6719 Bludesch",
-			"vszeitentitel": "Öffnungszeiten"
+			"vs_phone": "+43 5525 2108",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo. - Sa. 06:30 - 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen</p>"
 		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@0e56a5bd9bb59af2f2ffdee0c6428c06a25cf361/images/Filiale_Gais_625px.jpg",
 			"vsstandort": "Gais",
 			"vsadresse": "Walgaustrasse 33",
 			"vsplz-ort": "6719 Bludesch-Gais",
-			"vszeitentitel": "Öffnungszeiten"
+			"vs_phone": "+43 5525 646 66",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo. - Sa. 05:30 - 12:00</p>"
 		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@0adf24d3f8ddcb717304d028fde3656d3cbb2ccd/images/Filiale_Raggal_625px.jpg",
 			"vsstandort": "Raggal",
 			"vsadresse": "Hausnummer 111",
 			"vsplz-ort": "6741 Raggal",
-			"vszeitentitel": "Öffnungszeiten"
+			"vs_phone": "+43 5553 381",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo. - Sa. 07:30 - 11:00</p>"
 		}
 	]
 }
