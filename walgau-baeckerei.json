@@ -1,0 +1,24 @@
+{
+	"aktuelles": [
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@7960065b8d36c5f48faa6a9ce30745ae42b9bb92/images/angebot_625px.jpg",
+			"newsheadline": "Info's folgen demnächst!"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@a2c0a0706d457e76327ed4e360ae61e2cf3d6e1f/images/angebot_625px.jpg",
+			"newsheadline": "Info's folgen demnächst!",
+			"newstext": "\n            "
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@e334b309733b9241ca3929c33ba536729160b6a3/images/news_625px.jpg",
+			"newsheadline": "Info's folgen demnächst!"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@8215b6664bf1e37f1bff2f74842644eaa14917b5/images/job_625px.jpg",
+			"newsheadline": "Info's folgen demnächst!"
+		}
+	],
+	"vscontent": [
+		{}
+	]
+}
