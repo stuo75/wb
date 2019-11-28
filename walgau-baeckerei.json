@@ -1,13 +1,12 @@
 {
 	"aktuelles": [
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@7960065b8d36c5f48faa6a9ce30745ae42b9bb92/images/angebot_625px.jpg",
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@0efd3af6ee61b7ed0d31dae96bb688a26aeb451c/images/angebot_625px.jpg",
 			"newsheadline": "Info's folgen demnächst!"
 		},
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@a2c0a0706d457e76327ed4e360ae61e2cf3d6e1f/images/angebot_625px.jpg",
-			"newsheadline": "Info's folgen demnächst!",
-			"newstext": "\n            "
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@7960065b8d36c5f48faa6a9ce30745ae42b9bb92/images/angebot_625px.jpg",
+			"newsheadline": "Info's folgen demnächst!"
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@e334b309733b9241ca3929c33ba536729160b6a3/images/news_625px.jpg",
@@ -19,6 +18,33 @@
 		}
 	],
 	"vscontent": [
-		{}
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@2a3da80384f844a155d45e3dd860c77e2e0fa37d/images/Filiale_Thueringen_625px.jpg",
+			"vsstandort": "Thüringen",
+			"vsadresse": "Walgaustrasse 1",
+			"vsplz-ort": "6712 Thüringen",
+			"vszeitentitel": "Öffnungszeiten"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@d18e21b3c03791ff54a2399800cd7caa1f8b7665/images/Filiale_Bludesch_625px.jpg",
+			"vsstandort": "Bludesch",
+			"vsadresse": "Walgaustrasse 26",
+			"vsplz-ort": "6719 Bludesch",
+			"vszeitentitel": "Öffnungszeiten"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@0e56a5bd9bb59af2f2ffdee0c6428c06a25cf361/images/Filiale_Gais_625px.jpg",
+			"vsstandort": "Gais",
+			"vsadresse": "Walgaustrasse 33",
+			"vsplz-ort": "6719 Bludesch-Gais",
+			"vszeitentitel": "Öffnungszeiten"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@0adf24d3f8ddcb717304d028fde3656d3cbb2ccd/images/Filiale_Raggal_625px.jpg",
+			"vsstandort": "Raggal",
+			"vsadresse": "Hausnummer 111",
+			"vsplz-ort": "6741 Raggal",
+			"vszeitentitel": "Öffnungszeiten"
+		}
 	]
 }
