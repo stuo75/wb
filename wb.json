@@ -1,0 +1,18 @@
+{
+	"aktuelles": [
+		{
+			"newstext": "\n            "
+		}
+	],
+	"vscontent": [
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@2f443fbd08ee4710f1614582e5718faf410a4bb5/images/Filiale_Thueringen_625px.jpg",
+			"vsstandort": "Thüringen",
+			"vsadresse": "Walgaustrasse 1",
+			"vsplz-ort": "6712 Thüringen",
+			"vs_phone": "+43 5550 215 10",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo. - Sa. 07:00 . 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen</p>"
+		}
+	]
+}
