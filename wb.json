@@ -13,6 +13,18 @@
 			"vs_phone": "+43 5550 215 10",
 			"vszeitentitel": "Öffnungszeiten",
 			"vszeiten": "<p>Mo. - Sa. 07:00 . 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen</p>"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@274dc5153c46f347078555c2eb98e2abf70e244f/images/Filiale_Raggal_625px.jpg",
+			"vsstandort": "Raggal"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@07fced11ea4176e552ef3f3259af61f6049d1db5/images/Filiale_Gais_625px.jpg",
+			"vsstandort": "Gais"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb@fcd43ac3c368f968b20a52d08005166e105c475f/images/Filiale_Bludesch_625px.jpg",
+			"vsstandort": "Bludesch"
 		}
 	]
 }
