@@ -1,7 +1,16 @@
 {
 	"aktuelles": [
 		{
-			"newstext": "\n            "
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@524f03765589b21bf015f9a927e7af1f06bfae0a/images/angebot_625px.jpg"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@524f03765589b21bf015f9a927e7af1f06bfae0a/images/angebot_625px.jpg"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@062aaa2c3c67f049f58448034271ef3346543606/images/news_625px.jpg"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb@f09f3f066d78ee48152f8c54cd64ff4d5faf0526/images/job_625px.jpg"
 		}
 	],
 	"vscontent": [
